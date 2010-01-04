@@ -1,0 +1,9 @@
+2010-01-04 14:10:26,859 - check_basic_config   - ERROR - MEDIA_ROOT directory does not exist
+2010-01-04 14:10:26,862 - check_basic_config   - ERROR - CSS_BUILDER_SOURCE is not set
+2010-01-04 14:10:26,862 - check_basic_config   - ERROR - MEDIA_ROOT directory does not exist
+2010-01-04 14:10:26,894 - build_css_sprite     - ERROR - Unrecognized orientation: wrong name
+2010-01-04 14:10:27,508 - build_css_sprite     - ERROR - Unrecognized orientation: wrong name
+2010-01-04 14:10:27,660 - build_package        - ERROR - Unknown package: wrong package name
+2010-01-04 14:10:28,004 - css_file             - ERROR - a/c.css (/home/lowik/workspace/django-css-builder-demo/parts/django-css-builder/css_builder/tests_data/source/a/c.css) does not exists.
+2010-01-04 14:10:31,658 - found_css_sprite     - ERROR - CSS_BUILDER_SPRITES is not set
+2010-01-04 14:10:31,660 - found_css_sprite     - ERROR - CSS sprite for /home/lowik/workspace/django-css-builder-demo/parts/django-css-builder/css_builder/tests_data/source/d1/d2/wrong_name. not found
