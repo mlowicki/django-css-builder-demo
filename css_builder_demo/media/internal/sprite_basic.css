@@ -1,0 +1,22 @@
+div#div1 {
+    width: 256px;
+    height: 256px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    background: #000 url("/site_media/opera.png") no-repeat top left; /* 2sprite */
+}
+
+div#div2 {
+    width: 256px;
+    height: 256px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    background: #000 url("/site_media/ff.png") no-repeat top left; /* 2sprite */
+}
+
+div#div3 {
+    width: 256px;
+    height: 256px;
+    border: 1px solid #000;
+    background: #000 url("/site_media/safari.png") no-repeat top left; /* 2sprite */
+}
