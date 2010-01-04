@@ -1,0 +1,5 @@
+div#div1 {
+    width: 600px;
+    height: 300px;
+    background: #000 url("/site_media/1.png") no-repeat top left; /* 2b64 */
+}

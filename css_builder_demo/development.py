@@ -8,3 +8,5 @@ DATABASE_USER = 'root'
 DATABASE_PASSWORD = 'root'
 DATABASE_HOST = ''
 DATABASE_PORT = ''
+
+CSS_BUILDER_SOURCE = here(('media', 'internal',))
